@@ -1,0 +1,5 @@
+- How to install JMeter in mac.
+	- Install jmeter using the following command
+		- brew install jmeter
+	- then open it using this
+		- open /usr/local/bin/jmeter
